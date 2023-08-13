@@ -1,0 +1,65 @@
+{
+   "earrings": [
+      {
+         "id": "1",
+         "title": "Matte Statement Star & Moon Earrings",
+         "price": 20,
+         "img": "./images/one.jpg" 
+      }, 
+      {
+         "id": "2",
+         "title": "Black Link Drop Earrings",
+         "price": 11,
+         "img": "./images/two.jpg" 
+      }, 
+
+      {
+         "id": "3",
+         "title": "Gold Black Chain Tassel Earrings",
+         "price": 20,
+         "img": "./images/three.jpg" 
+      }, 
+      {
+         "id": "4",
+         "title": "Gold Textured Black Enamel Drop Earrings",
+         "price": 18,
+         "img": "./images/four.jpg" 
+      }, 
+      {
+         "id": "5",
+         "title": "Rhodium Oval Cupchain Drop Earrings",
+         "price": 18,
+         "img": "./images/five.jpg" 
+      }, 
+      {
+         "id": "6",
+         "title": "Gold Plated Black Onyx Ball Chain Drop Earrings",
+         "price": 19,
+         "img": "./images/six.jpg" 
+      }, 
+      {
+         "id": "7",
+         "title": "Black Mini Oval Cupchain Crop Earrings",
+         "price": 15,
+         "img": "./images/seven.jpg" 
+      }, 
+      {
+         "id": "8",
+         "title": "Black Square Stone Enamel Drop Earrings",
+         "price": 25,
+         "img": "./images/eight.jpg" 
+      }, 
+      {
+         "id": "9",
+         "title": "Black Embellished Teardrop Earrings",
+         "price": "30",
+         "img": "./images/nine.jpg" 
+      }, 
+      {
+         "id": "10",
+         "title": "Matte Black Rose and Sword Drop Earrings",
+         "price": 27,
+         "img": "./images/ten.jpg" 
+      }
+   ]
+}
